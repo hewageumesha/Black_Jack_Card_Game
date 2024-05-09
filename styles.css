@@ -1,0 +1,56 @@
+body {
+    background-image: url(Image/bg2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1 {
+    font-family: cursive;
+    text-align: center;
+    color: beige;
+    font-size: 50px;
+}
+
+#btn , #btn-res {
+    font-size: 15px;
+    background-color: antiquewhite;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 3%;
+    text-align: center;
+}
+
+h3 {
+    color: aliceblue;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-left: 3%;
+}
+
+#btn-res {
+    font-size: 15px;
+    background-color: antiquewhite;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 3%;
+    text-align: center;
+    display: none;
+    margin-top: 20px;
+}
+
+#mainResult {
+    border: white 3px solid;
+    font-family: cursive;
+    text-align: center;
+    color: beige;
+    font-size: 30px;
+}
+
+img {
+    margin-left: 10px;
+}
